@@ -1,5 +1,5 @@
 # Resources
-## Programming Podcasts 🎙️
+## Podcasts 🎙️
 * [The Learn to Code With Me Podcast](https://learntocodewith.me/podcast/) - Interviews and advice for learning how to code and building your technology career.
 * [CodeNewbie Podcast](https://www.codenewbie.org/podcast) - Stories from people on their coding journey.
 * [Developer Tea](https://spec.fm/podcasts/developer-tea) - A podcast for developers designed to fit inside your tea break
