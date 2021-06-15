@@ -1,6 +1,6 @@
 # Job Hunting Resources
 ## Personal Presentation
-* GitHub Landing Page:[Creating a Killer GitHub Profile README Part 1](https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1)
+* GitHub Landing Page: [Creating a Killer GitHub Profile README Part 1](https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1)
 
 ## Technical Interview
 * [Technical Interview Tips with Mayuko | Coding Blonde Career](https://www.youtube.com/watch?v=ETuxJZxAk6o)
