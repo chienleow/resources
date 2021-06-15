@@ -1,4 +1,8 @@
-# Resources
+# Job Hunting Resources
+## Personal Presentation
+* [Creating a Killer GitHub Profile README Part 1](https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1)
+
+# Programming Resources
 ## Podcasts 🎙️
 * [The Learn to Code With Me Podcast](https://learntocodewith.me/podcast/) - *Interviews and advice for learning how to code and building your technology career.*
 * [CodeNewbie Podcast](https://www.codenewbie.org/podcast) - *Stories from people on their coding journey.*
