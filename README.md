@@ -5,7 +5,7 @@
 ## Technical Interview
 * [Technical Interview Tips with Mayuko | Coding Blonde Career](https://www.youtube.com/watch?v=ETuxJZxAk6o) (13 mins video)
 
-## Salary Negotation
+## Salary Negotation 💰
 * [How to Negotiate a Job Offer: Software Engineer](https://apugia.medium.com/how-to-negotiate-a-job-offer-software-engineer-16adc3d6c889) (5 mins read)
 
 # Programming Resources
