@@ -3,10 +3,10 @@
 * GitHub Landing Page: [Creating a Killer GitHub Profile README Part 1](https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1)
 
 ## Technical Interview
-* [Technical Interview Tips with Mayuko | Coding Blonde Career](https://www.youtube.com/watch?v=ETuxJZxAk6o)
+* [Technical Interview Tips with Mayuko | Coding Blonde Career](https://www.youtube.com/watch?v=ETuxJZxAk6o) (13 mins video)
 
 ## Salary Negotation
-* [How to Negotiate a Job Offer: Software Engineer](https://apugia.medium.com/how-to-negotiate-a-job-offer-software-engineer-16adc3d6c889)
+* [How to Negotiate a Job Offer: Software Engineer](https://apugia.medium.com/how-to-negotiate-a-job-offer-software-engineer-16adc3d6c889) (5 mins read)
 
 # Programming Resources
 ## Podcasts 🎙️
