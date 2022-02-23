@@ -7,6 +7,8 @@
 
 ## Salary Negotation 💰
 * [How to Negotiate a Job Offer: Software Engineer](https://apugia.medium.com/how-to-negotiate-a-job-offer-software-engineer-16adc3d6c889) (5 mins read)
+* [Tips for negotiating your salary (from an ex-FAANG recruiter)](https://youtu.be/u9BoG1n1948) (12 mins video)
+* [Salary Negotiations with Sarah from Levels.fyi](https://open.spotify.com/episode/0hnuf8QnUy1gnBj7lwaNjI?si=LSogQNWpSimUStx5UtRg-A) (an hour podcast)
 
 # Programming Resources
 ## Podcasts 🎙️
